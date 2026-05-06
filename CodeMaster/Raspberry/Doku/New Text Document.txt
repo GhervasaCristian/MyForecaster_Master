@@ -1,0 +1,3 @@
+https://etcher.balena.io/#download-etcher
+https://www.alpinelinux.org/
+https://www.home-assistant.io/

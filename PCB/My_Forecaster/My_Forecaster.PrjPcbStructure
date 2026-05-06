@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Battery_Circuit.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=Battery_Circuit.SchDoc|FileName=Communication.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=Battery_Circuit.SchDoc|FileName=ESP32.SchDoc|SheetNumber=1
+Record=NoMainPathDocument|SourceDocument=Battery_Circuit.SchDoc|FileName=PowerPlant.SchDoc|SheetNumber=4
